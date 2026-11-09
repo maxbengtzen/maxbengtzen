@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @maxbengtzen
-- 👀 I’m interested in #proptech, #projectmanagement, #homeautomation, #selfhosting, #photography and #foss
-- 🔖 I specifically follow [Home Assistant](https://github.com/home-assistant), [Arcane](https://github.com/getarcaneapp/arcane), [Pangolin](https://github.com/fosrl/pangolin), [Karakeep](https://github.com/karakeep-app/karakeep), [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) & [Darktable](https://github.com/darktable-org/darktable)
-- 🌱 I’m currently learning React, Node.js, Tailwind CSS, shadcn ui, Prisma, Payload CMS, Docker and YAML (for advanced Home Assistant automations 😅)
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach out to me [@maxb@mastodon.nu](https://mastodon.nu/@maxb)
+### Hi, I'm Max 👋
 
-<!---
-bngtzn/bngtzn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I work in **real estate development and project management** by day — and build and self-host my own tools the rest of the time.
+
+- 🏗️ **Day job:** real estate development, project management, proptech (kind of), and making property data less painful
+- 🏠 **Homelab:** ~everything runs on a single box behind Pangolin + Pocket ID SSO, deployed with Docker Compose, backed up nightly, kept fresh by Renovate
+- 🛠️ **I build:** small, focused TypeScript apps (Next.js, Node, Postgres, Tailwind, shadcn/ui) with release-please → GHCR pipelines
+- 💡 **Home automation:** Home Assistant + custom Matterbridge plugins
+- 📷 Photography, edited in RapidRAW, LightCraft, spektrafilm and/or Darktable
+- 🔖 Projects I follow closely: [Home Assistant](https://github.com/home-assistant) · [Pangolin](https://github.com/fosrl/pangolin) · [Arcane](https://github.com/getarcaneapp/arcane) · [Karakeep](https://github.com/karakeep-app/karakeep)
+- 📫 [@maxbengtzen@mastodon.nu](https://mastodon.nu/@maxbengtzen)
